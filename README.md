@@ -2,4 +2,4 @@
 
 Hi,
 
-Welcome to our code. We used Python in Jupyter Notebooks. Copy in past code from 'DUPa_Project_Code.ipynb' and change based on each DUPa. Contact tangwill@broadinstitute.org if there are issues.
+Welcome to our code. We used Python in Jupyter Notebooks. Copy and past code from 'DUPa_Project_Code.ipynb' and change input files based on each specific DUPa. Contact tangwill@broadinstitute.org if there are issues.
